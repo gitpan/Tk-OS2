@@ -1,0 +1,7 @@
+MANIFEST
+Makefile.PL
+README
+diff_font
+patch_ptk_generic
+perltk_os2_common.zip
+perltk_os2_pm.zip
